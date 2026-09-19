@@ -127,7 +127,3 @@ export const environment = {
 ```
 
 Update this file (and add a `environment.prod.ts` if needed) to point to a different backend.
-
-## License
-
-Add your license of choice here.
